@@ -19,7 +19,7 @@
 </ul>
 
 <h3 style="color: #32CD32;">📸 <strong>Screenshot:</strong></h3>
-<p style="color: #4682B4;">![Calculator Screenshot](![Frame 1](https://github.com/user-attachments/assets/ce117604-5b7e-478c-af2d-7247871691e7)
+<p style="color: #4682B4;">(![Frame 1](https://github.com/user-attachments/assets/ce117604-5b7e-478c-af2d-7247871691e7)
 )</p>
 
 <hr style="border-color: #FF6347;">
