@@ -25,6 +25,6 @@
 
 <hr style="border-color: #FF6347;">
 
-<p style="color: #4682B4;">Feel free to check out the live version of the calculator <a href="https://your-github-pages-link-here" style="color: #FFD700;">here</a>.</p>
+<p style="color: #4682B4;">Feel free to check out the live version of the calculator <a href="https://tyson77777.github.io/calculator.github.io/" style="color: #FFD700;">here</a>.</p>
 
 <p style="color: #4682B4;">Happy calculating! 🎉</p>
