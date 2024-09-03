@@ -19,7 +19,8 @@
 </ul>
 
 <h3 style="color: #32CD32;">📸 <strong>Screenshot:</strong></h3>
-![Frame 1](https://github.com/user-attachments/assets/587774e2-dc1c-4a06-8f31-97aecf4af18d)
+
+![Frame 1](https://github.com/user-attachments/assets/7938b861-a05e-49f0-af77-5065a5e4f28a)
 
 
 <hr style="border-color: #FF6347;">
